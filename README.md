@@ -2,6 +2,6 @@
 
 ## Overview
 
-This lesson is intended to be used in the Bootstrap section of this course.
-Fork and close this repository so you can follow along in the provided videos
-and preserve your work from each lesson.
+Exceptional Realty Websit (Bootstrapped Version)
+
+This is an example website using the Twitter Bootstrap v3 framework. 
